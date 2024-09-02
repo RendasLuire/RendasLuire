@@ -1,25 +1,27 @@
-👋 Hola, soy [Tu Nombre]
-Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Actualmente, me enfoco en desarrollar aplicaciones utilizando React y Bootstrap, pero siempre estoy explorando nuevas herramientas y tecnologías.
+# 👋 Hola, soy Uriel Aguirre
 
-💼 Experiencia
-React & Bootstrap: Desarrollo de interfaces de usuario responsivas y dinámicas.
-Documentación en procesos farmacéuticos: Redacción de documentos detallados para procesos de fabricación de medicamentos.
-[Añade otras habilidades relevantes]
-📚 Actualmente aprendiendo
-[Nueva tecnología o herramienta que estás aprendiendo]
-[Algún tema o lenguaje de programación adicional]
-🔧 Tecnologías y herramientas
-Frontend: React, Bootstrap, HTML5, CSS3, JavaScript
-Version Control: Git, GitHub
-[Añade otras herramientas y tecnologías que uses]
-📫 Cómo contactarme
-Email: [tu_email@example.com]
-LinkedIn: Tu Perfil de LinkedIn
-Twitter: Tu usuario de Twitter
-💡 Proyectos Destacados
-[Nombre del Proyecto 1]: Descripción breve del proyecto. Link al repositorio
-[Nombre del Proyecto 2]: Descripción breve del proyecto. Link al repositorio
-🌱 Intereses
-Desarrollo de software enfocado en UX/UI.
-Documentación técnica y buenas prácticas de código.
-Innovación en el sector farmacéutico y desarrollo de tecnologías médicas.
+Soy un programador con una gran pasion por aprender continuamente. Actualmente, me enfoco en desarrollar aplicaciones utilizando React JS, Bootstrap y Node JS, aun asi siempre estoy explorando otras formas de creacion de soluciones, dependiendo el caso.
+
+## 💼 Experiencia
+
+- **React & Bootstrap**: Desarrollo de interfaces de usuario responsivas y dinámicas.
+- **Node JS**: Desarrollo de servicios de consulta a bases de datos.
+- **PowerShell**: Administracion de dominio Active Directory y creacion de scripts.
+
+## 🔧 Tecnologías y herramientas
+
+- **Frontend**: React, Bootstrap, HTML5, CSS3, JavaScript
+- **Backend**: JavaScript, Node JS
+- **Version Control**: Git, GitHub
+
+## 📫 Cómo contactarme
+
+- **Email**: andres.aguirre_o@hotmail.com
+- **LinkedIn**: [Andres Uriel Aguirre Ocampo](https://www.linkedin.com/in/andres-uriel-aguirre-ocampo-b2b59a263/)
+
+
+## 🌱 Intereses
+
+- Desarrollo de software enfocado en UX/UI.
+- Documentación técnica y buenas prácticas de código.
+- Innovación en el desarrollo de tecnologías.
