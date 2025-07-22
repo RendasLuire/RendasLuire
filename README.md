@@ -18,7 +18,8 @@
 ---
 
 <p align="center">
-  🚀 I'm currently building internal tools for enterprise environments with SAP, UI5, Node.js, and automation scripting. I'm always looking for challenging projects or collaborations in web development, integration, and productivity tooling.
+  🚀 I'm currently building internal tools for enterprise environments using SAP, UI5, Node.js, and automation scripting. I'm always open to challenging projects or collaborations in web development, system integration, and productivity tools.<br/>
+  My main objective is to create helpful web apps or smart tools — especially if I can learn something new in the process.
 </p>
 
 ---
@@ -29,7 +30,7 @@
 - ⚙️ Customizing reports based on user requirements  
 - 🌐 Creating internal web apps with **SAPUI5** (frontend) and **Node.js + Express** (backend)  
 - 🔄 Building **OData services** in SAP for system integration  
-- 🔐 Developing tools for SAP user password reset and unlock  
+- 🔐 Developing tools for SAP user 
 
 ---
 
