@@ -46,16 +46,6 @@ I build internal platforms and automation tools for enterprise environments.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rendasluire&theme=transparent&hide_border=true" height="160"/>
-</p>
-
-<br/>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
