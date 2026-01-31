@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://your-banner-link-here.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://avatars.githubusercontent.com/u/97057741?v=4" width="170" style="border-radius: 25%;" />
 </p>
 
@@ -45,21 +41,6 @@ I build internal platforms and automation tools for enterprise environments.
 - 🔄 OData Services for SAP integrations  
 - 🤖 Automation using scripting + Power Platform  
 - 🔐 Tools for SAP user support and administration  
-
-<br/>
-
-<p align="center">⚔️ ─────────────────────── ✦ ─────────────────────── ⚔️</p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendasluire&show_icons=true&count_private=true&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendasluire&layout=compact&hide_border=true" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rendasluire&hide_border=true" height="155"/>
-</p>
 
 <br/>
 
